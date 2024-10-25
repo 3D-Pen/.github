@@ -7,6 +7,8 @@
 
 [紹介スライドはこちら](https://www.docswell.com/s/shirokuma89dev/59VWMX-2024-10-26-010809)
 
+[動作の様子はこちら（YouTube）](https://www.youtube.com/watch?v=YvT9anJp1U4)
+
 ## Team
 
 - OpenCV_Tracking
