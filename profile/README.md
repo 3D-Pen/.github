@@ -1,4 +1,4 @@
-![3Dペン紹介-一般用 001](https://github.com/user-attachments/assets/7b6feab7-a3da-4e55-8eb9-059dd4fcae96)
+![380240090-7b6feab7-a3da-4e55-8eb9-059dd4fcae96](https://github.com/user-attachments/assets/72f46cd0-5abe-4c4d-9404-55de1d4a5dde)
 
 # 3D-Pen
 
